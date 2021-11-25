@@ -1,4 +1,5 @@
 컴파일 방법	: shell에 make 입력
+* testfiles에서 필요한 파일은 전부 testfiles 디렉토리에서 꺼낸 후 실행해야 함.
 
 실행 방법	: shell에 ./20191574.out 입력
 
